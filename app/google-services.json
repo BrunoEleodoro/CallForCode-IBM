@@ -1,0 +1,887 @@
+{
+  "project_info": {
+    "project_number": "744831214719",
+    "firebase_url": "https://aplicativos-7214e.firebaseio.com",
+    "project_id": "aplicativos-7214e",
+    "storage_bucket": "aplicativos-7214e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:92ae6684d89cd1fe",
+        "android_client_info": {
+          "package_name": "brunoeleodoro.callforcode.org.sender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-v3em13a3t3if0cng1e45oa94fcsqp56l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "brunoeleodoro.callforcode.org.sender",
+            "certificate_hash": "e4ba55532c50f221bd7fa418160d2fc05a2179c0"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:4f8db6969d3f0075",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.a365dias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-7ekvospdrg6s3emcsmsliqfnvfscloo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.a365dias",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "744831214719-l69ubkosubs5p5rcf659tggkb7rpo6ad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.a365dias",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:1e21879222831f28",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.aquario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-t8f75tocudgsdq1fnnrcr5n2hlc7ick2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.aquario",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "744831214719-hol2liqtf459hid85bk6j985jgiog3mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.aquario",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:1968542aa5e239c6",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.aries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-6738hv72nfn7524pocev3dfqba1lbv3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.aries",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "744831214719-1biutokj8nlft7uju83009msmns6927i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.aries",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:7a59ce56dbd22eda",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.cancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-d0ltsgoelm4g9f5a3219nag16l1vraup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.cancer",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "744831214719-i2fnqdi1dj7os81ve246648kieu0qis2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.cancer",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:1c1f80c9df8f4ff2",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.capricornio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-s5nc2ckjko7ibk4o9vsreqgf23pef20l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.capricornio",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "744831214719-437896e7ri8slmr8h7ugk9ijphhit4gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.capricornio",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:4f1312a7e71bba4b",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.escorpiao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-dd0kbsjqiagtjvanf54usjsqqjlm1afn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.escorpiao",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "744831214719-to2mmcqaa2mle507920pf1bqv8vachsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.escorpiao",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:1bd4e72c18e94197",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.frasescard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-0671eta04o506p43jsuab49av7rs8iou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.frasescard",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-9bubqs8dpm0pjqsh652k86iirlqbshnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.frasescard",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:373679a900555313",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.gemeos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-oa48f4q9ruth4nromkj3ttibjihq2j95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.gemeos",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "744831214719-8hmq0oef9ghcgkujc3n0q5ihm72n66t4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.gemeos",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:06aea964d3b5f2aa",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.leao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-or4gdcpjkg42mf8i6lgrj3rnsh4g4boe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.leao",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "744831214719-4m7sg403l8t6c4e81h4pa477cq2uh3ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.leao",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:77b3054512aea095",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.libra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-rb94ma7f09lm38loahroh8r5tiav7q9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.libra",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "744831214719-jdis7qo1kuq7kdd3u52b9b0o3cmv8tic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.libra",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:b42c55e0a3a4024a",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.peixes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-8dh2vc83165ig8h4a7nql17v5i10cod7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.peixes",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "744831214719-adpet25mlieic794jl7unuegedk2vikq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.peixes",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:582511cea5f1bda1",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.sagitario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-q30aug4q5dj5dfjlf1s9j5uqsq84748m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.sagitario",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "744831214719-mi6kiqim7i4n65muhlngp96ntqe1idft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.sagitario",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:3a9ba2ab4c2a1cf9",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.touro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-87c4d90e839b5qh30ibhv73h0munn0u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.touro",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "744831214719-it0n28lipqnceb4utpbqfrr27v33g5i3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.touro",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:eefe1d5f810147fd",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.virgem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-kmfotb0dgvjo97ndviun124serh0gm6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.virgem",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-6vmtf2f2st988h6k1bj83dm7g8nud84u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.virgem",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:132400951aad706d",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.vocsabia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-1bm76bkvpfp7lbf2anl0cqvnp9dquvn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.vocsabia",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-l0hatmkafbubfe6kg82ulacnmhr1ourj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.vocsabia",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744831214719:android:d3863b470b122469",
+        "android_client_info": {
+          "package_name": "org.brunoeleodoro.com.tretafamosos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744831214719-jnnv39i0gg40u1v74i1fm5vem5ff9hkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.brunoeleodoro.com.tretafamosos",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "744831214719-qpcbsulhfd866u6qnsci7vno85525dc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.brunoeleodoro.com.tretafamosos",
+            "certificate_hash": "1c1d505650263a8629062e83719057d5a2cb9b2c"
+          }
+        },
+        {
+          "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW-01Ln7KszcodtDHZ3bKuQz2z5CFzG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744831214719-2e97oudfhrtvdl5g3r3psb9na4hc1s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
